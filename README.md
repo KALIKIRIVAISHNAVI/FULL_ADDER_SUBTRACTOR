@@ -71,6 +71,10 @@ Write the detailed procedure here
 4.Compile, simulate, implement, and program the design similarly to the full adder.
 
 
+
+**RTL Schematic**
+
+![318332382-c01e6c3c-d648-4bad-8a98-66d93df13f1a](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/2e45d893-4f83-4a98-8bc2-d0d30b70e7e2)
 **Program:**
 
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
@@ -101,10 +105,6 @@ assign DIFF = a ^ b ^ Bin;
 endmodule
 
 ~~~
-
-**RTL Schematic**
-
-![318332382-c01e6c3c-d648-4bad-8a98-66d93df13f1a](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/2e45d893-4f83-4a98-8bc2-d0d30b70e7e2)
 
 **Output Timing Waveform**
 
